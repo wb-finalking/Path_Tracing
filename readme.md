@@ -75,7 +75,7 @@ Object类实现了Mesh三角面片和Sphere球体物体对象
 
 单向蒙特卡洛光线追踪
 
-![](https://github.com/wb-finalking/Path_Tracing/blob/master/result/1/2sample10000_MCSD.bmp?raw=true)
+![](https://github.com/wb-finalking/Path_Tracing/blob/master/result/1/sample10000_MCSD2.bmp?raw=true)
 
 ![](https://github.com/wb-finalking/Path_Tracing/blob/master/result/2/sample10000_MCSD.bmp?raw=true)
 
@@ -85,4 +85,4 @@ Object类实现了Mesh三角面片和Sphere球体物体对象
 
 ![](https://github.com/wb-finalking/Path_Tracing/blob/master/result/1/sample1500_MCBD.bmp?raw=true)
 
-![](https://github.com/wb-finalking/Path_Tracing/blob/master/result/2/sample1000_MCBD.jpg?raw=true)
+![](https://github.com/wb-finalking/Path_Tracing/blob/master/result/2/sample2000_MCBD.bmp?raw=true)
