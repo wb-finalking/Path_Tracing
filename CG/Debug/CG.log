@@ -1,0 +1,22 @@
+﻿生成启动时间为 2018/2/23 0:38:13。
+     1>项目“D:\project\CG\CG\CG.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\program\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /ID:\program\QT5.8\5.8\msvc2013\include /I.\GeneratedFiles\Debug /ID:\program\QT5.8\5.8\msvc2013\include\QtCore /ID:\program\QT5.8\5.8\msvc2013\include\QtGui /ID:\program\QT5.8\5.8\msvc2013\include\QtWidgets /ID:\project\eigen3 /I"D:\project\glm-master" /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt bvh.cpp
+         bvh.cpp
+       Link:
+         D:\program\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\project\CG\Win32\Debug\\CG.exe" /NOLOGO /LIBPATH:D:\program\QT5.8\5.8\msvc2013\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Widgetsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\project\CG\Win32\Debug\CG.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\project\CG\Win32\Debug\CG.lib" /MACHINE:X86 /SAFESEH Debug\bvh.obj
+         Debug\FileReading.obj
+         Debug\moc_mainwindow.obj
+         Debug\qrc_mainwindow.obj
+         Debug\main.obj
+         Debug\mainwindow.obj
+         Debug\Material.obj
+         Debug\object.obj
+         Debug\readObj.obj
+         Debug\Scene.obj
+         CG.vcxproj -> D:\project\CG\Win32\Debug\CG.exe
+     1>已完成生成项目“D:\project\CG\CG\CG.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.07
