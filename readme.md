@@ -77,7 +77,7 @@ Object类实现了Mesh三角面片和Sphere球体物体对象
 
 ![](https://github.com/wb-finalking/Path_Tracing/blob/master/result/1/sample10000_MCSD2.bmp?raw=true)
 
-![](https://github.com/wb-finalking/Path_Tracing/blob/master/result/2/sample10000_MCSD.bmp?raw=true)
+![](https://github.com/wb-finalking/Path_Tracing/blob/master/result/1/sample10000_MCSD2.bmp?raw=true)
 
 ![](https://github.com/wb-finalking/Path_Tracing/blob/master/result/3/sample10000_m.bmp?raw=true)
 
